@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the bill with four views, and commissioners to look after wool and woollen manufactures</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09844</idno><idno type="EEBO-CITATION">69648861</idno>
+  <idno type="VID">185032</idno>
+  <idno type="EEBO-PROQUEST">2240866120</idno>
+  
+            <idno type="STC">Wing R512E</idno>
+            <idno type="STC">ESTC R204589</idno>
+            <idno type="OCLC">69648861</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185032)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2884:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the bill with four views, and commissioners to look after wool and woollen manufactures</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Woolen goods industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185032:1"/>
+            <head>REASONS for the Bill with Four Views, and Commissioners to look after Wooll and Woollen Manufactures.</head>
+            <p n="1">1. THE Aulneger by several Statutes was to look not only to the length and breadth, but goodness of Cloth, too much for any one Man to oversee; yet having no Checks, he might easily pervert it. Also the Cloth-workers and Dyers view by 5 and 6. <hi>Ed.</hi> 6. <hi>c.</hi> 6. in Corporations, is disused, and thousands of Clothiers dwelling out of them; 'twas not so general a good if perform'd: because but the testimony of a particular Place, and those Officers being yearly changed, and having no Sallaries, did neglect it. Yet the reason of the mature Advice exprest in the said Act to have been then given by all the Merchants and Clothiers in <hi>England,</hi> still holds; that there must be some to take care of the true Manufacturing: and what's propounded in the Bill by a National View, will give Cloth all the Credit the publick Faith can afford. But if the Aulnage be put down for no reason but barely the abuse of it, and you do not at the same time come to some regulation which will in all likelihood effect the good ends for which the Aulnege was at first instituted; either all your Ancestors were in the dark, to think some care of the Manu<g ref="char:EOLhyphen"/>factures necessary: or 'twill be as if one should take off the Shoe that pinches, and then go bare-foot, for fear of not getting an easier Pare. for 'twas not the number of Officers made the Aulnege un-easie, but the abusive manner of Collecting that Duty, rectify the abuse by putting it into Commission, which will not be lyable if you appoint good Sallaries and no Fees to be corrupted, a Constitution under so many Checks upon them, and in a Matter wherein the King and the Peoples Interest is in every point one and the same, and let but Cloth be strictly viewed in each of the Four Trades through whose hands it passes before finisht, and then like a Ship well lancht 'twill sail quickly and steadily through all the Channels of Trade, it should or might be brought to and with the best advantage. Though some parts of the Kingdom do by late regulations Export more then they did formerly: Yet no Man can say that the Clothing Trade is not very much decay'd in General, while it may be demonstrated six times as much Cloth went out of the Kingdom forty Years since as at any time this twenty Years; and how otherwise cou'd the price of Wool be now so much lower then anciently, when its also a plain case, more of it is now Exported Un-manufactur'd then ever. But the false Lights which the Merchants may give to those that cannot see into the Mystery of Trade, should not allow them to be Judges who are Parties in this Matter: Some getting Estates by ruining the Clothing Trade and ad<g ref="char:EOLhyphen"/>vancing Foreign Manufactures: Others by those deceits which bring Cloth into dis-esteem so they can but do their business thereby, do not seek to advance their Fortunes with the Common Good of the Country; and those Merchants that do endeavour to send good Cloths abroad where the Credit of even their private Seals makes it sell fast, may not think it their Interest that all others should be obliged to deal so fairly, thus the cross Interest of Traders makes them unca<g ref="char:EOLhyphen"/>pable to conspire in any thing that's for the good of the Kingdom in general; which is the cause that upon the Ballance of Trade the Kingdom grows yearly the poorer: Though some of its Trading-Members are vastly inrich'd thereby.</p>
+            <div type="part">
+               <head>Reasons for the Four Views in the Bill.</head>
+               <p n="1">1. OUR Neighbour-Nations the <hi>French, &amp;c.</hi> are getting yearly into the Clothing Trade, and will beat us out of it, unless we do rectify false making, and like them, view Cloth strictly. <hi>First,</hi> In the raw Thread before full'd to see it be well Spun, close Wove. 2d. To measure in the Water the length and breadth, that it be not after strain'd beyond what the Statutes allow, which prevents weak<g ref="char:EOLhyphen"/>ning and opening: Also that its well scowred from Greace and Oyl, or 'twill be apt to be Moth-eaten to see it well fulled, that Work<g ref="char:EOLhyphen"/>manship may be bestowed upon it. 3d. When rowed and shorn to see it rises thick and short, and is even shorn, which defends from Rain and makes it look and wear well. 4th. When Dyed, to view if the Colours be good as will not rot the Cloth or change the Colour. Unless Cloth of whatsoever sort or substance be carefully finisht in the four said Particulars, it will not be so perfect a Comodity as it ought to please and humour each Market. But if it were as this Bill pro<g ref="char:EOLhyphen"/>poses in its Proportion, 'twould be as pretious among all Nations as Gold, and bring the <hi>Indies</hi> home to us in Returns.</p>
+               <p n="2">2. The Viewers will ease the Clothier, who puts forth all his Work, saving him labour and time, and by the second view out of the Mill the Clothier is at a certainty what length he shall be paid; for whereas now he is at none.</p>
+               <p n="3">3. If any Fault be committed by the Work-man, he is to pay for that Fault, which no Statute has yet provided against.</p>
+               <p n="4">4. The buyer is hereby assured what he buys shall answer his ex<g ref="char:EOLhyphen"/>pectation; Why not this assurance be given to all Woollen Manufactures as well as in those places that do it by acts of Regulation, as <hi>Col<g ref="char:EOLhyphen"/>chester,</hi> Gold and Silver is toucht, Weights and Measures are Stampt and Sealed. Leather ought to be viewed, and if Cloths were so too, 'twould encrease and ascertain the value of that Commodity at home and abroad, as well as the touch of Plate. Cloth not view'd may be set off by hot Pressing and other Arts, by which 'twill look better, but in wearing 'tis found to keep the buyer neither warm nor dry.</p>
+               <p n="5">5. Three of these Views have anciently been used as the Water<g ref="char:EOLhyphen"/>length, <hi>&amp;c.</hi> by the Aulneger 25 <hi>Ed.</hi> 3. <hi>c.</hi> 1. The Cloth-workers and Dyers View by 5 and 6. <hi>Ed.</hi> 6. <hi>c.</hi> 6. The View in the raw Thread, tho most material has not been practis'd but in some particular places; as <hi>Colchester</hi> by 12. <hi>Ch.</hi> 2. Which has gain'd a vast Trade for their Bayse, for this is the main View; for unless any Woollen Manufacture be well woven, all the rest of the Workmanship to be bestowed will not render them perfectly good.</p>
+               <p n="6">6. These Views add no dearness to the Cloth, because so small a Duty laid upon the four Views, being divided among four different Trades, lyes only upon the under-workers and not upon the Cloth it self, but what some propose upon putting down the Aulnege to lay the Duty thereof at the <hi>Custom-house</hi> upon Cloth just at Exportation, added to the 22d. which is already impos'd by Trading Companies, up<g ref="char:EOLhyphen"/>on it must render it dearer at Foreign Markets. When so trivial a Matter paid by the four Workers can be no oppression to them, but will be their advantage by causing six times as much Work to pass through their hands as formerly, and when the Clause of ascertain<g ref="char:EOLhyphen"/>ing their VVages to be paid in Money, puts them out of danger of being wrong'd by those that set them to VVork, and likewise secures their Imployers, that they that take care in working, which will breed Emulation who shall gain the Credit of the best VVork-man, who will consequently be most imployed.</p>
+               <p n="7">7. These Viewers will have so many Checks upon them, and be under such Penalties in this Bill, that they'l hardly venture to loose a certain good Sallary for an uncertain unjust profit, not like to pass unpunisht, for they are to be such as are knowing in what they view; so that many others qualified will watch their Actions.</p>
+            </div>
+            <div type="part">
+               <head>Reasons for Commissioners.</head>
+               <p n="1">1. VVHY not Commissioners for Wooll and Woollen Ma<g ref="char:EOLhyphen"/>nufactures as well as Commissioners of the Customs? this is of greater Import, being to inrich the Nation. They'l see the Laws for the benefit of the Clothing Trade be duely executed, Experience shews without a spring of Execution, Laws will soon dye. <hi>Colchester</hi> which is already under such a Regulation has gain'd a great Trade for Baise; and that's govern'd by Masters, Wardens and As<g ref="char:EOLhyphen"/>sistants in the nature of Commissioners and Viewers as in the Bill, which is yet far above it for Corporations may and do favour one and the other in viewing; but in this Method there cannot well be more favour shew'd to one then another; for the Commissioners sitting in <hi>London</hi> will be a present redress to any Complaint of that or any other kind made against their under Officers, besides they sitting constant<g ref="char:EOLhyphen"/>ly will upon all Occasions consult with Workers, Clothiers and Mer<g ref="char:EOLhyphen"/>chants to put in Practice any new Invention of improving the Ma<g ref="char:EOLhyphen"/>nufactures, or gaining any New Markets abroad, and represent things to the Parliament.</p>
+               <p n="2">2. Number of Officers is not the grievance of the Aulnege, but the abusive manner of Collecting that Duty which is methodiz'd in this Bill, so as that Mischief can never happen but the Manufacture plainly decays without some to see it truely perform'd, then if no less troublesome way than this can be devised, where the Benefit so far exceeds the Inconvenience, Commissioners, <hi>&amp;c.</hi> under their Cir<g ref="char:EOLhyphen"/>cumstances can hardly become a grievance, or no good must be at<g ref="char:EOLhyphen"/>tempted for fear of a possibility of failing, and the charge or trouble shall be no greater to the Subjects, be the number of Officers more or less. Besides the Dutchess of <hi>Richmond</hi> and the Farmers will be better secur'd by this Bill to receive what the Parliament does allow them instead of their Interest in the Aulnege, then they can be if the Duty were paid at the <hi>Custom-house.</hi>
+               </p>
+               <p n="3">3. Merchants may still for all this continue to order what Cloths they please from the Clothiers, the Commissioners will not hinder that only the Seals will shew which are best, indifferent, worst Cloths, as those of <hi>Colchester</hi> now do to their Bays, that the Buyer may still know what he buys, which giving a Standard of Credit, makes Seals very necessary, and thereby each Market will be pleas'd and well serv'd, and 'tis likely his Majesty will appoint some of the most knowing Merchants to be
+<pb facs="tcp:185032:2"/>of these Commissioners.</p>
+               <p n="4">4. Transportation of Wooll can never be prevented, unless by the care of such Commissioners, drawn insensibly through its natural Chanel of Woollen Manufactures, which the clearing of the way by giving them a reputation at the Markets abroad can only effect.</p>
+               <pb n="2" facs="tcp:185032:3"/>
+               <p n="5">5. If this regulation rectify the abuses in our Manufactures, 'twill be the greatest Incouragement to Trade, and the Officers highly de<g ref="char:EOLhyphen"/>serve their Sallaries. Let not the greatest benefit be deny'd to the whole Kingdom, because some imperfection and inconvenience must be in any, tho' the best of Human Management, let none so dispair of the Good of the Common-weal as to object, that this were an ex<g ref="char:EOLhyphen"/>cellent method if there could be found Seven Honest Men in the Nati<g ref="char:EOLhyphen"/>on fit to be cheif Commissioners to direct this great Affair right.</p>
+               <p>Upon the whole Matter, if this regulation should have no better success then that at <hi>Colchester,</hi> Landlords, Spinners, Weavers, Ful<g ref="char:EOLhyphen"/>lers, Cloth-workers, Dyers, Drapers, Retailers and Merchants will each find a vast advantage in the quick vent, and at a good price of the Woollen Manufactures as will be evident, since there are Certifi<g ref="char:EOLhyphen"/>cates ready to be offer'd at the Committee, under the hands of seve<g ref="char:EOLhyphen"/>ral hundreds of Clothiers, that the Methods in the Bill of four views and Commissioners will in all probability not only regain; but bring the Clothing Trade to the greatest perfection, and therefore they im<g ref="char:EOLhyphen"/>patiently attend the happy issue of it. A benefit to be at this time more especially endeavor'd, when Tennants and under Workers are Beggar'd for want of Work at home. Merchants great loossers at Sea, and not daring to venture through so many hazards during this War in any Traffick that depends on remoter Parts. Yet by three Men of War attending between <hi>England</hi> and <hi>Holland.</hi> Trade would be secure thither to <hi>Germany</hi> and all the Northern Parts where Woollen Manu<g ref="char:EOLhyphen"/>factures are of most use, and where they'l gladly exchange Pitch, Tar, Deals, Cordage, Masts, <hi>&amp;c.</hi> for Cloths fitted to keep out the told, their long Winters brings them, in which and other gains by such a Method, this Kingdom would be vastly inrich't, 'twould raise Wooll to the ancient price at least as many hundreds of knowing Clothiers affirm, enabling Tennants not only to pay their Rents, but also render the present Tax much easier to be levyed. Perhaps some Drapers or Merchants of Cloth may oppose the Bill, but it can be only for this or the like reason, they had rather go on to strain Cloth and the like deceits which renders it unserviceable to the Buyer, because they get unreasonably thereby, not well considering those Arts by degrees bring the Commodity generally into disesteem, and racks Mens in<g ref="char:EOLhyphen"/>ventions for new sorts, Buyers always seeking if any can be had more serviceable when in reality by the Credit, and therefore general usage of Cloths, tho' there be but a reasonable gain upon each Peice; yet at the Years end the frequent repetition of that small profit, and con<g ref="char:EOLhyphen"/>stant continuance of it will in few Years bring vast secure Riches, when the other unreasonable present gain upon using the Cloth by discovery of its faults determines, and often stops the further Sale of his Goods, who has then great quantities left to decay upon his hands, who thought sure to make an Estate quickly by them. The Growers or Owners of Wooll, may now think it there advantage, that Cloths should be slight and wear out fast to consume Wooll, not considering the multiplicity of uses, the Commodity will be imploy'd to, if 'tis truely wrote in its kind is a surer way, and will by a dayly Progression of wearing Cloth in other Countries, and upon many more occasions undoubtedly consume much more Wooll. When on the other hand the slightness of Cloths is the chief reason the People have disus'd them in many places and occasions though to be had at home, for other sorts of Foreign Stuffs which answered expectation better or were expected to do so, and by which other Countries were put by our default upon making for their own use, 'tis this by little and little has made our dependance on Foreign Nations almost necessary and unavoidable, while we let them rob us of our native Riches, and sinews of War. Unless we now regulate better, and correct those faults which have sunk the reputation of our Manufactures. Let the Gentlemen most concern'd for the Exportation of Wooll Unmanu<g ref="char:EOLhyphen"/>factur'd be forewarn'd of this, it may happen tho' other Nations yet but <hi>Novices</hi> in the Manufacturing of Cloth, are oblig'd at present to take off our Wooll to help them easily to do it. Yet when Labour and Industry has render'd them more expert in the nicest Parts of Workmanship, they may by several experiments either find out a way to Work as good Cloth by a mixture of their own Wooll and <hi>Spanish,</hi> or at least with some other Wooll then <hi>English</hi> or <hi>Irish,</hi> and then even their now pretious liberty of Exporting our Wooll, and the Clothing Trade will together expire amongst us.</p>
+               <p>When 'tis most evident if Cloth were wrought up to perfection, Wooll would go in more abundance and faster out through that its natural Channel, and bare as good if not better price then the Gentle<g ref="char:EOLhyphen"/>men now gets, who suffers it to be Exported, and other Nations would thereby be stopt in their too reasonable hopes, as things now stand of gaining that most beneficial Staple Trade from us.</p>
+               <p>
+                  <hi>All these Reasons are humbly submitted to the Consideration of the House, and its humbly desired, that if any Objections arise upon the Debate, they may be allow'd to offer Satisfactory Answers.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:185032:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
